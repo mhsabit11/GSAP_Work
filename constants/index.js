@@ -120,21 +120,26 @@ const socials = [
     {
         name: "Instagram",
         icon: "/images/insta.png",
-        url: "#",
+        url: "https://www.instagram.com/shots_by_sabit?igsh=MW51MXo1NzZtb20wdA%3D%3D&utm_source=qr",
+    },
+    {
+        name: "Github",
+        icon: "/images/git.png",
+        url: "https://github.com/mhsabit11",
     },
     {
         name: "X (Twitter)",
         icon: "/images/x.png",
-        url: "#",
+        url: "https//www.x.com/m_h_sabit2003",
     },
     {
         name: "Facebook",
         icon: "/images/fb.png",
-        url: "#",
+        url: "https://www.facebook.com/share/1Gw25KQJiS/?mibextid=wwXIfr",
     },
 ];
 
-const sliderLists = [
+const allCocktails = [
     {
         id: 1,
         name: "Classic Mojito",
@@ -179,5 +184,5 @@ export {
     openingHours,
     storeInfo,
     socials,
-    sliderLists,
+    allCocktails,
 };
